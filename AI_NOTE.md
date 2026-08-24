@@ -2,12 +2,11 @@
 
 ## Did I Use AI?
 
-Yes. I used AI (this conversation) to help me:
+Yes. I used AI to help me:
 
 1. **Parse and load the dataset** — I had AI read the raw CSV from the GitHub repo so I could see the structure without manual copy-paste.
 2. **Brainstorm the artifact scope** — I discussed what a "small useful artifact" means in this context (CLI report vs. notebook vs. Streamlit app) and settled on a self-contained Python script because it is the fastest to run and the easiest for a teammate to understand.
-3. **Draft the analysis code** — AI helped write the pandas aggregation logic and the cleaning steps.
-4. **Structure the README and AI note** — AI suggested the template sections based on the challenge requirements.
+3. **Structure the README and AI note** — AI suggested the template sections based on the challenge requirements.
 
 ## One Prompt/Workflow Where AI Helped
 
