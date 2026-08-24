@@ -9,7 +9,7 @@ A lightweight Python script (`signaldesk_health_check.py`) that loads the messy 
 
 ## Who It Is For
 
-A product manager or engineer on the SignalDesk team who wants a 60-second read on what changed, what looks suspicious, and what to look at next — without building a BI dashboard.
+A engineer on the SignalDesk team who wants a 60-second read on what changed, what looks suspicious, and what to look at next — without building a BI dashboard.
 
 ## Data & Source
 
